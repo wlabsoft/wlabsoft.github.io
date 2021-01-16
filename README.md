@@ -1,5 +1,3 @@
-# Welcome
+# My Awesome Book
 
-Welcome to wlabsoft site 👋
-
-Here you'll find (hopefully) everything you need to know on cloud software development.
+This file file serves as your book's preface, a great place to describe your book's content and ideas.
